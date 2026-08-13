@@ -307,25 +307,6 @@ Participated in the PU CODE 3.0 Hackathon as part of a three-member team.
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priti-Pandey02&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Priti-Pandey02/Priti-Pandey02/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%"/>
-
-</div>
-
----
 
 ## Current Focus
 
