@@ -398,3 +398,19 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=120&section=footer" width="100%"/>
 
 </div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priti-Pandey02/Priti-Pandey02/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priti-Pandey02/Priti-Pandey02/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Priti-Pandey02/Priti-Pandey02/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
